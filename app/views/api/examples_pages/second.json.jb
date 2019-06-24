@@ -1,1 +1,1 @@
-{message: @bob}
+{fortunemessage: @fortune, lottonumbers: @lottery_numbers}
